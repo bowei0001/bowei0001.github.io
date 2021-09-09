@@ -3,7 +3,7 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "public"]
 	path = public
-	url = https://github.com/<USERNAME>/<USERNAME>.github.io.git
+        url = https://github.com/bowei0001/bowei0001.github.io.git
 	branch = master
 [submodule "bowei0001.github.io"]
 	path = bowei0001.github.io
