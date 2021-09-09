@@ -1,9 +1,11 @@
 ---
-title: 'We Help Business Grow'
+title: 'Colossaltech'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+我々ColossalTechは、2018年にキャッシュレスという大きな決済革命と伴って発足し、キャッシュレス決済及び決済関連プロセクトをプロデゥースするビジョンをもたらしました。
+我々は、キャッシュレスサービスを初め、決済ソリューションから真の価値へリンクすることをによって、日常生活をより便利、より効率にすることを望みます。
+今の我々のビジネスでは、電子商取引、デパート、ラグジュアリーブランド、医療美容、その他多くの業界など、多くの企業顧客が支払いの問題を解決するのに役立ちます。 企業とあらゆる決済ブランド・決済チャネル間の接続を大幅に簡素化し、日常のトランザクション管理、売上データ・売上集計データ参照、およびデータ集計・分析機能を一つ統合管理プラットフォームに集約します。 決済ソリューションの導入、トランザクション管理から事業運営まで、私たちは企業が今までビジネスシーンで直面する数多く問題点を、カスタマイズされやすい決済ソリューションによって、価値に変えます。
